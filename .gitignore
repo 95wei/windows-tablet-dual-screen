@@ -1,0 +1,10 @@
+*.apk
+*.apkm
+*.msi
+*.exe
+*.zip
+*.log
+*.pem
+*.pfx
+.env
+.env.*
